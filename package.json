@@ -1,0 +1,18 @@
+{
+  "name": "csce315-battleship",
+  "version": "1.0.0",
+  "description": "CSCE315 Project2 Game based off of Battleship",
+  "main": "Server.js",
+  "dependencies": {
+    "httpdispatcher": "^1.0.0",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Colin Banigan",
+  "license": "ISC"
+}
